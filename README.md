@@ -1,8 +1,8 @@
 # makefun-news-image-20261123-varian9
 
 [![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
-[![rank](https://make.fun/badge/news-image-20261123/lightxa/makefun-news-image-20261123-varian9/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
-[![reward](https://make.fun/badge/news-image-20261123/lightxa/makefun-news-image-20261123-varian9/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/lightxa/makefun-news-image-20261123-v9/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/lightxa/makefun-news-image-20261123-v9/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 Monday 23 November 2026 in one picture: 8 stories, 4 regions. A front page drawn entirely in code, no image files and no network. The lead is the strike on an Iranian tanker at the Hormuz blockade line, beside BepiColombo settling into orbit around Mercury, and six more stories below: the NHS AI breast-screening trial, Asian tech shares sliding in the AI sell-off, an AI-assisted Riemann proof awaiting final checks, the UK named host of the 2035 Women's World Cup, the Thai-Cambodia ceasefire holding, and Virginia and Oregon suing over Grok images.
 
